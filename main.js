@@ -34,7 +34,7 @@ function getAll() {
         }
     document.getElementById('content').innerHTML = html;
 }
-// getAll();
+getAll();
 function getAllBun() {
     document.getElementById('content').innerHTML = '';
     let html = '';
